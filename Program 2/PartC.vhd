@@ -1,3 +1,6 @@
+Library ieee;
+use ieee.std_logic_1164.all;
+
 Entity BCD_Segment is
 Port [bcd : in bit_vector(0 to 3);
     Led : out bit_vector(0 to 6)];
