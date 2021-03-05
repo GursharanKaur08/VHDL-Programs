@@ -8,7 +8,7 @@ begin
     Process (A, B, E)
     Variable ABAR, BBAR: bit;
     
-    begin
+begin
     ABAR=not A;
     BBAR=not B;
     if E=1
