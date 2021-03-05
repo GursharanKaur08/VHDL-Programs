@@ -4,7 +4,7 @@ use ieee.std_logic_1164.all;
 Entity decoder2 is
 Port [A, B, En: in bit;
     D: out bit_vector(o to 3)];
-end decoder1;
+end decoder2;
 
 Architecture RTL of decoder1 is
 Signal ABAR, BBAR: bit;
