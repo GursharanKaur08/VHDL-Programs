@@ -1,3 +1,6 @@
+Library ieee;
+use ieee.std_logic_1164.all;
+
 Entity decoder1 is
 Port [A, B, E : in bit;
     D : out bit_vector(0 to 3)];
