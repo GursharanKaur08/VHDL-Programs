@@ -3,7 +3,7 @@ use ieee.std_logic_1164.all;
 
 Entity fa1 is
 Port (a, b, c : in bit;
-    Sum, Carry : out bit);
+      Sum, Carry : out bit);
 end fa1;
 
 Architecture RTL of fa1 is
