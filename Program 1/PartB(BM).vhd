@@ -12,5 +12,5 @@ begin
 begin
     Sum <= a xor b;
     Carry <= a and b;
-end Process;
+    end Process;
 end RTL;
