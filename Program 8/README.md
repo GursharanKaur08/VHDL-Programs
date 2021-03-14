@@ -1,0 +1,3 @@
+->  Design a SR flip flop
+->  Design a JK flip flop
+->  Design a T flip flop
