@@ -1,0 +1,2 @@
+->  D flip flop with synchronous reset
+->  D flip flop with asynchronous reset
