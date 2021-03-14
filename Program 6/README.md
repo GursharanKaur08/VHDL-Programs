@@ -1,0 +1,2 @@
+->  SR - Latch using NOR gate
+->  SR - Latch using NAND gate
