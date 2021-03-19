@@ -1,11 +1,20 @@
 # VHDL-Programs
 Program 1:
-->  To realise and simulate all basic gates using Data Flow Modelling.
+->  Basic gates using Data Flow Modelling.
 
 Program 2:
-->  To realise and simulate Half Adder using Behavioural (BM).
-->  To realise and simulate Half Adder using Data Flow (DFM).
-->  To realise and simulate Half Adder Structural Modelling (SM).
+->  Half Adder using Behavioural (BM).
+->  Half Adder using Data Flow (DFM).
+->  Half Adder Structural Modelling (SM).
+
+Program 3:
+->  ->  Full Adder using Data Flow Modelling.
+->  4 bit parallel adder using structural modelling.  
+
+Program 5:
+->  D - Latch simulation
+->  SR - Latch using NOR gate
+->  SR - Latch using NAND gate
 
 Program 7:
 ->  D flip flop with synchronous reset
