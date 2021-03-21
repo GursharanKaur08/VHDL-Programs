@@ -24,3 +24,8 @@ Program 8:
 ->  Design a SR flip flop
 ->  Design a JK flip flop
 ->  Design a T flip flop
+
+Program 10:
+->  2X4 or 3X8 decoder(DFM)
+->  BCD to Decimal Decoder
+->  BCD to Seven Segment Display
