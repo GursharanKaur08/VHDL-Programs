@@ -8,8 +8,12 @@ Program 2:
 ->  Half Adder Structural Modelling (SM).
 
 Program 3:
-->  ->  Full Adder using Data Flow Modelling.
-->  4 bit parallel adder using structural modelling.  
+->  Full Adder using Data Flow Modelling.
+->  4 bit parallel adder using structural modelling. 
+
+Program 4:
+->  Parity Checker
+->  Parity Generator
 
 Program 5:
 ->  D - Latch simulation
