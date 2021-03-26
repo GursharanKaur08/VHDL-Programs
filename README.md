@@ -2,23 +2,23 @@
 
 Program 1:
 
-->  Basic gates using Data Flow Modelling.
+->  Basic gates using Data Flow Modelling
 
 
 Program 2:
 
-->  Half Adder using Behavioural (BM).
+->  Half Adder using Behavioural (BM)
 
-->  Half Adder using Data Flow (DFM).
+->  Half Adder using Data Flow (DFM)
 
-->  Half Adder Structural Modelling (SM).
+->  Half Adder Structural Modelling (SM)
 
 
 Program 3:
 
-->  Full Adder using Data Flow Modelling.
+->  Full Adder using Data Flow Modelling
 
-->  4 bit parallel adder using structural modelling. 
+->  4 bit parallel adder using structural modelling
 
 
 Program 4:
@@ -46,11 +46,11 @@ Program 7:
 
 Program 8:
 
-->  Design a SR flip flop
+->  SR flip flop
 
-->  Design a JK flip flop
+->  JK flip flop
 
-->  Design a T flip flop
+->  T flip flop
 
 
 Program 10:
@@ -64,8 +64,8 @@ Program 10:
 
 Program 11:
 
-->  To realise and simulate MUX using Behavioural Modeling (BM).
+->  MUX using Behavioural Modeling (BM)
 
-->  To realise and simulate MUX using Data Flow Modeling (DFM).
+->  MUX using Data Flow Modeling (DFM)
 
-->  To realise and simulate MUX using Data Flow Modeling with selected signal assignment(DFM).
+->  MUX using Data Flow Modeling with selected signal assignment(DFM)
