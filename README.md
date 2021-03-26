@@ -60,3 +60,12 @@ Program 10:
 ->  BCD to Decimal Decoder
 
 ->  BCD to Seven Segment Display
+
+
+Program 11:
+
+->  To realise and simulate MUX using Behavioural Modeling (BM).
+
+->  To realise and simulate MUX using Data Flow Modeling (DFM).
+
+->  To realise and simulate MUX using Data Flow Modeling with selected signal assignment(DFM).
