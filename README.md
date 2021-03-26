@@ -23,6 +23,8 @@ Program 3:
 
 Program 4:
 
+->  Comparator
+
 ->  Parity Checker
 
 ->  Parity Generator
