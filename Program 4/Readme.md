@@ -1,0 +1,2 @@
+->  To realise and simulate Parity checker.
+->  To realise and simulate Parity generator.
