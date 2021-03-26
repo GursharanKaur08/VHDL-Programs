@@ -16,3 +16,5 @@ begin
     D(2)<=A and BBAR and En;
     D(3)<=A and B and En;
 End RTL;
+
+
