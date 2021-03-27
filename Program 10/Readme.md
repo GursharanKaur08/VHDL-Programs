@@ -1,3 +1,0 @@
-->  2x4 or 3x8 decoder using DFM.
-->  BCD to Decimal Decoder.
-->  BCD to Seven Segment Display.
