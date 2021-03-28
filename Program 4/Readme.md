@@ -1,3 +1,3 @@
-->  To realise and simulate Comparator.
-->  To realise and simulate Parity checker.
-->  To realise and simulate Parity generator.
+->  2x4 or 3x8 decoder using DFM.
+->  BCD to Decimal Decoder.
+->  BCD to Seven Segment Display.
