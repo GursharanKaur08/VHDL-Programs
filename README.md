@@ -18,25 +18,38 @@ Program 3:
 
 ->  Full Adder using Data Flow Modelling
 
-->  4 bit parallel adder using structural modelling
+->  Full Adder using Data Flow and behavioural Modelling
+
+->  Full Adder using Data Flow + Structural + Behavioural Modelling
+
+->  4 bit parallel adder using structural Modelling
 
 
 Program 4:
 
-->  Comparator
+->  2x4 or 3x8 decoder using DFM
 
-->  Parity Checker
+->  BCD to Decimal Decoder
 
-->  Parity Generator
+->  BCD to Seven Segment Display
 
 
 Program 5:
 
-->  D - Latch simulation
+->  To realise and simulate Comparator
 
-->  SR - Latch using NOR gate
+->  To realise and simulate Parity checker
 
-->  SR - Latch using NAND gate
+->  To realise and simulate Parity generator
+
+
+Program 6:
+
+->  Design a SR flip flop
+
+->  Design a JK flip flop
+
+->  Design a T flip flop
 
 
 Program 7:
@@ -46,22 +59,13 @@ Program 7:
 ->  D flip flop with asynchronous reset
 
 
-Program 8:
+Program 9:
 
-->  SR flip flop
+->  D - Latch simulation
 
-->  JK flip flop
+->  SR - Latch using NOR gate
 
-->  T flip flop
-
-
-Program 10:
-
-->  2X4 or 3X8 decoder(DFM)
-
-->  BCD to Decimal Decoder
-
-->  BCD to Seven Segment Display
+->  SR - Latch using NAND gate
 
 
 Program 11:
