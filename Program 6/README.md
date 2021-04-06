@@ -1,3 +1,3 @@
-->  To realise and simulate Comparator.
-->  To realise and simulate Parity checker.
-->  To realise and simulate Parity generator.
+->  Design a SR flip flop
+->  Design a JK flip flop
+->  Design a T flip flop
