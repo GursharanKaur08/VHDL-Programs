@@ -68,7 +68,7 @@ Program 9:
 ->  SR - Latch using NAND gate
 
 
-Program 11:
+Program 10:
 
 ->  MUX using Behavioural Modeling (BM)
 
