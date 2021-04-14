@@ -54,9 +54,9 @@ Program 7:
 
 Program 8:
 
-->  serial adder using Structural modelling
+->  Serial adder using Structural modelling
 
-->  serial adder using Behavioural modelling
+->  Serial adder using Behavioural modelling
 
 Program 9:
 
