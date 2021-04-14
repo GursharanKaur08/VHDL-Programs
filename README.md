@@ -4,7 +4,6 @@ Program 1:
 
 ->  Basic gates using Data Flow Modelling
 
-
 Program 2:
 
 ->  Half Adder using Behavioural (BM)
@@ -12,7 +11,6 @@ Program 2:
 ->  Half Adder using Data Flow (DFM)
 
 ->  Half Adder Structural Modelling (SM)
-
 
 Program 3:
 
@@ -24,7 +22,6 @@ Program 3:
 
 ->  4 bit parallel adder using structural Modelling
 
-
 Program 4:
 
 ->  2x4 or 3x8 decoder using DFM
@@ -32,7 +29,6 @@ Program 4:
 ->  BCD to Decimal Decoder
 
 ->  BCD to Seven Segment Display
-
 
 Program 5:
 
@@ -42,7 +38,6 @@ Program 5:
 
 ->  To realise and simulate Parity generator
 
-
 Program 6:
 
 ->  Design a SR flip flop
@@ -51,13 +46,17 @@ Program 6:
 
 ->  Design a T flip flop
 
-
 Program 7:
 
 ->  D flip flop with synchronous reset
 
 ->  D flip flop with asynchronous reset
 
+Program 8:
+
+->  serial adder using Structural modelling
+
+->  serial adder using Behavioural modelling
 
 Program 9:
 
@@ -66,7 +65,6 @@ Program 9:
 ->  SR - Latch using NOR gate
 
 ->  SR - Latch using NAND gate
-
 
 Program 10:
 
