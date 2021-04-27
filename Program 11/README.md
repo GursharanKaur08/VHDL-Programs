@@ -1,0 +1,3 @@
+->  To realise & simulate a 4-bit asynchronous counter using generate statement.
+->  To realise & simulate a 4-bit serial in parallel out shift register.
+->  To realise & simulate a 4-bit updown counter using VHDL.
