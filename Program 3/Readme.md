@@ -1,2 +1,4 @@
-->  Full Adder using Data Flow Modelling.
-->  4 bit parallel adder using structural modelling.
+->  To realise & simulate Full Adder using Data Flow Modelling.
+->  To realise & simulate Full Adder using Data Flow Modelling+Behavioural Modelling.
+->  To realise & simulateFull Adder using Data Flow Modelling+Structural Modelling+Behavioural Modelling.
+->  To realise & simulate 4 bit parallel adder using structural modelling.
