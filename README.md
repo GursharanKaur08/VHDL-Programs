@@ -73,3 +73,12 @@ Program 10:
 ->  MUX using Data Flow Modeling (DFM)
 
 ->  MUX using Data Flow Modeling with selected signal assignment(DFM)
+
+Program 11:
+
+->  4-bit asynchronous counter using generate statement
+
+->  4-bit serial in parallel out shift register
+
+->  4-bit updown counter 
+
