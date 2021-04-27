@@ -1,3 +1,3 @@
-->  D - Latch simulation
-->  SR - Latch using NOR gate
-->  SR - Latch using NAND gate
+->  To realise & simulate D - Latch.
+->  To realise & simulate SR - Latch using NOR gate.
+->  To realise & simulate SR - Latch using NAND gate.
