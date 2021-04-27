@@ -1,0 +1,2 @@
+->  To realise & simulate Serial adder using Behavioural modelling
+->  To realise & simulate Serial adder using Structural modelling
