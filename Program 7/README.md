@@ -1,2 +1,2 @@
-->  D flip flop with synchronous reset
-->  D flip flop with asynchronous reset
+->  To realise & simulate D flip flop with synchronous reset
+->  To realise & simulate D flip flop with asynchronous reset
