@@ -1,3 +1,3 @@
-->  2x4 or 3x8 decoder using DFM.
-->  BCD to Decimal Decoder.
-->  BCD to Seven Segment Display.
+->  To realise & simulate 2x4 or 3x8 decoder using DFM.
+->  To realise & simulate BCD to Decimal Decoder.
+->  To realise & simulate BCD to Seven Segment Display.
